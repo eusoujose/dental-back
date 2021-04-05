@@ -1,4 +1,5 @@
 # node backend
 
-> npm i
-> node server.js
+npm i
+
+node server.js
